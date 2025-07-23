@@ -80,7 +80,7 @@ Here are the technologies I work with. My core strengths are in Python for Data 
       <br><strong>Git</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://user-images.githubusercontent.com/666496/234320912-30234a94-4066-480c-971c-4234f9a0f4a2.png" width="48" height="48" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
       <br><strong>Tableau</strong>
     </td>
      <td align="center" width="120">
@@ -106,10 +106,9 @@ Here are the technologies I work with. My core strengths are in Python for Data 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevanshahuja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jeevansh's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanshahuja&theme=tokyonight&hide_border=true" alt="Jeevansh's Streak Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanshahuja&layout=compact&theme=tokyonight&hide_border=true" alt="Jeevansh's Top Languages"/>
 </div>
+
 
 ---
 
@@ -120,8 +119,8 @@ Here are some of the projects I'm most proud of.
 | Project                                                               | Description                                                                                             | Tech Stack                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Multilingual Transliteration Model**                                | Fine-tuned an mBART model for high-accuracy transliteration across Indian languages, achieving a BLEU score of 66.29 and handling over 300K text entries. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24"/> |
-| <a href="[LINK_TO_TOXIC_COMMENT_PROJECT_REPO_OR_LIVE_DEMO]">**Toxic Comment Classifier**</a> | Built a text classification pipeline using TF-IDF and 1D CNNs to detect toxic comments with 95% accuracy, designed for real-time filtering. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" height="24"/> |
-| <a href="[LINK_TO_COVID_ANALYSIS_PROJECT_REPO_OR_LIVE_DEMO]">**COVID-19 Vaccine Analysis**</a> | Analyzed distribution inequalities of COVID-19 vaccines across Indian states using Pandas and visualized findings with Tableau to propose policy shifts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24"/> <img src="https://user-images.githubusercontent.com/666496/234320912-30234a94-4066-480c-971c-4234f9a0f4a2.png" width="24" height="24"/> |
+| <a href="https://jeevanshahuja.github.io/Toxic-live/">**Toxic Comment Classifier**</a> | Built a text classification pipeline using TF-IDF and 1D CNNs to detect toxic comments with 95% accuracy, designed for real-time filtering. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" height="24"/> |
+| <a href="https://jeevanshahuja.github.io/covid-project-live/">**COVID-19 Vaccine Analysis**</a> | Analyzed distribution inequalities of COVID-19 vaccines across Indian states using Pandas and visualized findings with Tableau to propose policy shifts. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" height="24"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> |
 
 ---
 
