@@ -104,11 +104,11 @@ Here are the technologies I work with. My core strengths are in Python for Data 
 
 <!-- Replace with your GitHub username -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jeevansh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanshahuja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jeevansh's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="Jeevansh's Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanshahuja&theme=tokyonight&hide_border=true" alt="Jeevansh's Streak Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Jeevansh's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanshahuja&layout=compact&theme=tokyonight&hide_border=true" alt="Jeevansh's Top Languages"/>
 </div>
 
 ---
