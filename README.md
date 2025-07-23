@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDx80flg7wb/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Jeevansh Ahuja 👋
   </h1>
@@ -11,10 +10,10 @@
   <a href="mailto:jeevanshahuja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="www.linkedin.com/in/jeevanshahuja">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
+  <a href="https://jeevanshahuja.github.io/portfolio-website/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -24,14 +23,14 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+  <a href="https://github.com/jeevanshahuja">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[YOUR_LEETCODE_URL]">
+  <a href="https://leetcode.com/u/jeevanshahuja/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="[YOUR_CODE360_URL]">
-    <img src="https://img.shields.io/badge/Code360-0A66C2?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code 360"/>
+  <a href="https://codolio.com/profile/Jeevansh">
+    <img src="https://img.shields.io/badge/Codolio-0A66C2?style=for-the-badge&logoColor=white" alt="Codolio Badge"/>
   </a>
 </div>
 
